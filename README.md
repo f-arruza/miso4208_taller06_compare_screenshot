@@ -3,7 +3,7 @@
 ## Screenshot #1: https://f-arruza.github.io/
 ![alt text](images/capture01.png)
 
-## Screenshot #1: https://f-arruza.github.io/
+## Screenshot #2: https://f-arruza.github.io/
 ![alt text](images/capture01.png)
 
 ## Resultado de la Comparación
